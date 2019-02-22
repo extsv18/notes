@@ -14,7 +14,6 @@
 * [STM8S-USB - Программная реализация USB на STM8S103](https://github.com/ZiB/STM8S-USB)
 * [Telegram - Telegram for Android source](https://github.com/DrKLO/Telegram)
 * [stm32plus - The C++ library for the STM32 F0, F100, F103, F107 and F4 microcontrollers](https://github.com/andysworkshop/stm32plus)
-* [comic_format - ]()
 * [EffectiveAndroid - This sample project shows how to apply MVP and Clean architecture on an Android app](https://github.com/rallat/EffectiveAndroid)
 * [dodroid - Android quiz for programmers](https://github.com/mgolokhov/dodroid)
 * [libmaple - C and C++ library for STM32 ARM Cortex-M3 development boards](https://github.com/extsv18/libmaple)
