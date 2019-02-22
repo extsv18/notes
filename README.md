@@ -1,5 +1,8 @@
 # interesting repositories for me for different projects
 
+* [Kotlin/Native infrastructure](https://github.com/JetBrains/kotlin-native)
+* [INAV: Navigation-enabled flight control software https://inavflight.github.io](https://github.com/iNavFlight/inav)
+* [Cross platform configuration tool for the cleanflight firmware](https://github.com/betaflight/betaflight-configurator)
 * [betaflight - Open Source Flight Controller Firmware](https://github.com/betaflight/betaflight)
 * [klipper - Klipper is a 3d-printer firmware](https://github.com/KevinOConnor/klipper)
 * [emcpp Embedded C++ library laboratory](https://github.com/larytet/emcpp)
