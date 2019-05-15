@@ -27,3 +27,6 @@
 * [RaspiLCD - Library to access the LCD display from EmSysTech from a Java programm.](https://github.com/StephanBeutel/RaspiLCD)
 -----------------
 * [Proof-of-concept ESP8266 web server and ARM Serial Wire Debug client](https://github.com/scanlime/esp8266-arm-swd)
+--------------
+  Ethercat
+  *[Open EtherCAT Society](https://github.com/OpenEtherCATsociety)
