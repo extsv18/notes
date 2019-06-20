@@ -31,3 +31,9 @@
   Ethercat
   
   * [Open EtherCAT Society](https://github.com/OpenEtherCATsociety)
+  
+--------------
+  Artnet
+  
+  * [OpenLightingProject/libartnet](https://github.com/OpenLightingProject/libartnet)
+  * [OpenLightingProject/artnet-examples](https://github.com/OpenLightingProject/artnet-examples)
