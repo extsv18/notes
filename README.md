@@ -38,4 +38,4 @@
   * [OpenLightingProject/libartnet](https://github.com/OpenLightingProject/libartnet)
   * [OpenLightingProject/artnet-examples](https://github.com/OpenLightingProject/artnet-examples)
   * [Arduino-based ArtNet Node v1](https://github.com/alfo/artnet)
-  * [Raspberry Pi Baremetal DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / ](https://github.com/vanvught/rpidmx512)
+  * [Raspberry Pi Baremetal Orange Pi baremetal Linux / Cygwin / Mac OS X ---- DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / ](https://github.com/vanvught/rpidmx512)
