@@ -37,3 +37,4 @@
   
   * [OpenLightingProject/libartnet](https://github.com/OpenLightingProject/libartnet)
   * [OpenLightingProject/artnet-examples](https://github.com/OpenLightingProject/artnet-examples)
+  * [Arduino-based ArtNet Node v1](https://github.com/alfo/artnet)
