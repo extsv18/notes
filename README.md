@@ -1,4 +1,4 @@
-# interesting repositories for me for different projects
+# interesting repositories for my different projects
 
 * [Kotlin/Native infrastructure](https://github.com/JetBrains/kotlin-native)
 * [INAV: Navigation-enabled flight control software https://inavflight.github.io](https://github.com/iNavFlight/inav)
